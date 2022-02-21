@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SPARC/static/css/main.84c9801c.css",
+    "main.js": "/SPARC/static/js/main.8b08d22a.js",
+    "static/js/787.38667e43.chunk.js": "/SPARC/static/js/787.38667e43.chunk.js",
+    "static/media/workshop5.jpg": "/SPARC/static/media/workshop5.5e3addca34eaf8d59eb9.jpg",
+    "static/media/workshop1.jpg": "/SPARC/static/media/workshop1.b6b7ba8cc5125e3f0254.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/SPARC/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/SPARC/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/SPARC/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/SPARC/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/SPARC/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/SPARC/index.html",
+    "main.84c9801c.css.map": "/SPARC/static/css/main.84c9801c.css.map",
+    "main.8b08d22a.js.map": "/SPARC/static/js/main.8b08d22a.js.map",
+    "787.38667e43.chunk.js.map": "/SPARC/static/js/787.38667e43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84c9801c.css",
+    "static/js/main.8b08d22a.js"
+  ]
+}
