@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SPARC/static/css/main.84c9801c.css",
-    "main.js": "/SPARC/static/js/main.5e752f92.js",
+    "main.js": "/SPARC/static/js/main.e86a045c.js",
     "static/js/787.38667e43.chunk.js": "/SPARC/static/js/787.38667e43.chunk.js",
     "static/media/workshop5.jpg": "/SPARC/static/media/workshop5.5e3addca34eaf8d59eb9.jpg",
     "static/media/workshop1.jpg": "/SPARC/static/media/workshop1.b6b7ba8cc5125e3f0254.jpg",
@@ -12,11 +12,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/SPARC/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/SPARC/index.html",
     "main.84c9801c.css.map": "/SPARC/static/css/main.84c9801c.css.map",
-    "main.5e752f92.js.map": "/SPARC/static/js/main.5e752f92.js.map",
+    "main.e86a045c.js.map": "/SPARC/static/js/main.e86a045c.js.map",
     "787.38667e43.chunk.js.map": "/SPARC/static/js/787.38667e43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84c9801c.css",
-    "static/js/main.5e752f92.js"
+    "static/js/main.e86a045c.js"
   ]
 }
